@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-09T06:21:52.640Z
-Commit: Add export functionality for reports
+Timestamp: 2026-03-09T06:22:45.057Z
+Commit: Add multi-language support
